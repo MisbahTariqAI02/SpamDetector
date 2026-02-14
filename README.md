@@ -1,6 +1,13 @@
 # Neon Detective: Spam Detector 🕵️‍♂️
 A lightweight GUI application built with **C++** and **Raylib** that analyzes text for common spam keywords in real-time.
 
+## TEAM: 4O4 Found
+**Batch:** AI-02  
+**Members:**
+* **Hania Zafar 250901028**
+* **Dua Fatima 250901042**
+* **Misbah Tariq 250901047**
+
 ## Features
 - **Real-time Analysis:** Updates the threat score as you type.
 - **Detective Theme:** Neon-inspired visual feedback (Green for Safe, Yellow for Suspicious, Red for Spam).
